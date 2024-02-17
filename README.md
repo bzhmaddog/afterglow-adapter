@@ -1,4 +1,7 @@
 # Afterglow I/O adapter
+
+![PCB board](pcb.png)
+
 An adapter board which purpose is to re-map Inputs and/or Ouputs of an Afterglow board
 Two x9 pins molex broken into to a Heighteen pins 5.08mm Bornier
 
